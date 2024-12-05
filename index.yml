@@ -8,3 +8,7 @@ contacts:
     homePageUrl: https://github.com/Jaqster/My-Cool-Course
 units:
   - unit1/index.yml
+drive:
+  fileSystem:
+    - path: course1:unit1:lesson1:lessonpart1/intro.py
+      content: "# Please insert your code template here"
